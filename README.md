@@ -31,6 +31,7 @@ attributes. The following is a short description for each of them.
 * Current language used for work/school: the main language spoken by the speaker during daily activities.
 * gender: the gender of the speaker.
 * ageRange: the age range of the speaker.
+
 An intent is given by the combination of an action with an object, therefore the information in the two
 respective columns must be combined to obtain the label to be used to address this task. The way this
 information should be combined is a simple string concatenation (e.g., if the action is “increase” and the
